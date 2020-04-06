@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1586137564 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\main.cpp
+	<iostream>
+	"RegularShape.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Triangle.h"
+
+1586137437 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\src\circle.cpp
+	"Circle.h"
+
+1586136954 c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\include\circle.h
+	"RegularShape.h"
+
+1586136360 c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\include\regularshape.h
+
+1586137575 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\src\rectangle.cpp
+	"Rectangle.h"
+
+1586137247 c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\include\rectangle.h
+	"RegularShape.h"
+
+1586137674 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\src\triangle.cpp
+	"Triangle.h"
+
+1586137694 c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\include\triangle.h
+	"RegularShape.h"
+
+1586136360 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\shapehw\src\regularshape.cpp
+	"RegularShape.h"
+
